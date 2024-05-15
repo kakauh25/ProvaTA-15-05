@@ -1,0 +1,25 @@
+header
+{
+    width: 100%;
+    background-color: burlywood ;
+
+}
+nav
+{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.lista1 
+ {
+    background-color: burlywood;
+    color: black;
+    display: flex;
+    justify-content: center;
+ }
+
+ .lista1 li
+ {
+    padding: 1rem;
+ }

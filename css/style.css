@@ -1,0 +1,20 @@
+@import url(conteudo.css);
+@import url(menu.css);
+@import url(banner.css);
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 1200px;
+    margin: auto;
+}
+ul 
+{
+    list-style-type: none;
+}
